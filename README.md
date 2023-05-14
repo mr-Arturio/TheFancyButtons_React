@@ -1,7 +1,7 @@
 # The Fancy Buttons
 ___
 
-### The Goal
+##The Goal
 The main goals of this project are:
 
 * using a state inside components
